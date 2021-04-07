@@ -1,0 +1,3 @@
+~/.fehbg & 
+exec dwm
+
